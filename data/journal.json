@@ -1,0 +1,41 @@
+{
+  "title": "The Making Process",
+  "subtitle": "From soft fiber to a small handmade piece.",
+  "intro": "Every iHogu piece is made entirely by hand: no machine felting, no shortcuts.",
+  "steps": [
+    {
+      "step": "01",
+      "title": "Wool & Color",
+      "description": "We select natural wool and soft tones that feel like nature.",
+      "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/journal/step-01.png?imageMogr2/format/webp"
+    },
+    {
+      "step": "02",
+      "title": "Felt & Shape",
+      "description": "Every form is carefully felted needle by needle.",
+      "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/journal/step-02.png?imageMogr2/format/webp"
+    },
+    {
+      "step": "03",
+      "title": "Number & Story",
+      "description": "We give each piece a number, a date, and its own story.",
+      "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/journal/step-03.png?imageMogr2/format/webp"
+    }
+  ],
+  "materials": [
+    "Wool felt",
+    "Cotton",
+    "Thread",
+    "Small labels"
+  ],
+  "tools": [
+    "Felting needles",
+    "Foam mat",
+    "Small scissors",
+    "Tweezers"
+  ],
+  "videos": [
+    { "platform": "YouTube", "title": "Watch on YouTube", "url": "https://www.youtube.com/@ihogu", "isVisible": true },
+    { "platform": "Bilibili", "title": "Watch on Bilibili", "url": "https://space.bilibili.com/ihogu", "isVisible": true }
+  ]
+}

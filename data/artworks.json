@@ -1,0 +1,225 @@
+[
+  {
+    "id": "IH-2026-0002",
+    "number": "IH-2026-0002",
+    "title": "Bunny's Flower Cart",
+    "date": "January 12, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "22 x 18 cm",
+    "price": 320,
+    "status": "Available",
+    "story": "A small flower cart scene shaped with wool felt, cotton details, and soft garden colors.",
+    "process": "Needle-felted core with layered handmade floral details.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0002.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0002.png?imageMogr2/format/webp","https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0004.png?imageMogr2/format/webp","https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0003.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/@ihogu", "primary": true },
+      { "platform": "Bilibili", "url": "https://space.bilibili.com/ihogu", "primary": false }
+    ],
+    "purchaseLinks": []
+  },
+  {
+    "id": "IH-2026-0003",
+    "number": "IH-2026-0003",
+    "title": "Forest Camping",
+    "date": "January 18, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "18 x 18 cm",
+    "price": 360,
+    "status": "Archive",
+    "story": "A quiet camping scene with a little bear, warm lantern light, and a tiny forest fire.",
+    "process": "Needle-felted scene with stitched tent and miniature props.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0003.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0003.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "Xiaohongshu", "url": "https://www.xiaohongshu.com/user/profile/ihogu", "primary": true }
+    ],
+    "purchaseLinks": []
+  },
+  {
+    "id": "IH-2026-0004",
+    "number": "IH-2026-0004",
+    "title": "Little Bakery",
+    "date": "January 26, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "24 x 20 cm",
+    "price": 380,
+    "status": "Reserved",
+    "story": "A warm bakery cottage with tiny bread baskets, window light, and a small bear at the door.",
+    "process": "Hand-shaped felt cottage with layered wool textures and miniature signage.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0004.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0004.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/@ihogu", "primary": true }
+    ],
+    "purchaseLinks": []
+  },
+
+
+ 
+  {
+    "id": "IH-2026-0003",
+    "number": "IH-2026-0003",
+    "title": "Forest Camping",
+    "date": "January 18, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "18 x 18 cm",
+    "price": 360,
+    "status": "Archive",
+    "story": "A quiet camping scene with a little bear, warm lantern light, and a tiny forest fire.",
+    "process": "Needle-felted scene with stitched tent and miniature props.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0003.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0003.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "Xiaohongshu", "url": "https://www.xiaohongshu.com/user/profile/ihogu", "primary": true }
+    ],
+    "purchaseLinks": []
+  },
+  {
+    "id": "IH-2026-0002",
+    "number": "IH-2026-0002",
+    "title": "Bunny's Flower Cart",
+    "date": "January 12, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "22 x 18 cm",
+    "price": 320,
+    "status": "Available",
+    "story": "A small flower cart scene shaped with wool felt, cotton details, and soft garden colors.",
+    "process": "Needle-felted core with layered handmade floral details.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0002.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0002.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/@ihogu", "primary": true },
+      { "platform": "Bilibili", "url": "https://space.bilibili.com/ihogu", "primary": false }
+    ],
+    "purchaseLinks": []
+  },
+  {
+    "id": "IH-2026-0004",
+    "number": "IH-2026-0004",
+    "title": "Little Bakery",
+    "date": "January 26, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "24 x 20 cm",
+    "price": 380,
+    "status": "Reserved",
+    "story": "A warm bakery cottage with tiny bread baskets, window light, and a small bear at the door.",
+    "process": "Hand-shaped felt cottage with layered wool textures and miniature signage.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0004.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0004.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/@ihogu", "primary": true }
+    ],
+    "purchaseLinks": []
+  },
+  {
+    "id": "IH-2026-0002",
+    "number": "IH-2026-0002",
+    "title": "Bunny's Flower Cart",
+    "date": "January 12, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "22 x 18 cm",
+    "price": 320,
+    "status": "Available",
+    "story": "A small flower cart scene shaped with wool felt, cotton details, and soft garden colors.",
+    "process": "Needle-felted core with layered handmade floral details.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0002.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0002.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/@ihogu", "primary": true },
+      { "platform": "Bilibili", "url": "https://space.bilibili.com/ihogu", "primary": false }
+    ],
+    "purchaseLinks": []
+  },
+  {
+    "id": "IH-2026-0004",
+    "number": "IH-2026-0004",
+    "title": "Little Bakery",
+    "date": "January 26, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "24 x 20 cm",
+    "price": 380,
+    "status": "Reserved",
+    "story": "A warm bakery cottage with tiny bread baskets, window light, and a small bear at the door.",
+    "process": "Hand-shaped felt cottage with layered wool textures and miniature signage.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0004.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0004.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/@ihogu", "primary": true }
+    ],
+    "purchaseLinks": []
+  },
+  {
+    "id": "IH-2026-0003",
+    "number": "IH-2026-0003",
+    "title": "Forest Camping",
+    "date": "January 18, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "18 x 18 cm",
+    "price": 360,
+    "status": "Archive",
+    "story": "A quiet camping scene with a little bear, warm lantern light, and a tiny forest fire.",
+    "process": "Needle-felted scene with stitched tent and miniature props.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0003.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0003.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "Xiaohongshu", "url": "https://www.xiaohongshu.com/user/profile/ihogu", "primary": true }
+    ],
+    "purchaseLinks": []
+  },
+  {
+    "id": "IH-2026-0004",
+    "number": "IH-2026-0004",
+    "title": "Little Bakery",
+    "date": "January 26, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "24 x 20 cm",
+    "price": 380,
+    "status": "Reserved",
+    "story": "A warm bakery cottage with tiny bread baskets, window light, and a small bear at the door.",
+    "process": "Hand-shaped felt cottage with layered wool textures and miniature signage.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0004.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0004.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/@ihogu", "primary": true }
+    ],
+    "purchaseLinks": []
+  },
+  {
+    "id": "IH-2026-0002",
+    "number": "IH-2026-0002",
+    "title": "Bunny's Flower Cart",
+    "date": "January 12, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "22 x 18 cm",
+    "price": 320,
+    "status": "Available",
+    "story": "A small flower cart scene shaped with wool felt, cotton details, and soft garden colors.",
+    "process": "Needle-felted core with layered handmade floral details.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0002.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0002.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/@ihogu", "primary": true },
+      { "platform": "Bilibili", "url": "https://space.bilibili.com/ihogu", "primary": false }
+    ],
+    "purchaseLinks": []
+  },
+  {
+    "id": "IH-2026-0003",
+    "number": "IH-2026-0003",
+    "title": "Forest Camping",
+    "date": "January 18, 2026",
+    "material": "Wool Felt, Cotton",
+    "dimensions": "18 x 18 cm",
+    "price": 360,
+    "status": "Archive",
+    "story": "A quiet camping scene with a little bear, warm lantern light, and a tiny forest fire.",
+    "process": "Needle-felted scene with stitched tent and miniature props.",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0003.png?imageMogr2/format/webp",
+    "images": ["https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/artworks/IH-2026-0003.png?imageMogr2/format/webp"],
+    "videos": [
+      { "platform": "Xiaohongshu", "url": "https://www.xiaohongshu.com/user/profile/ihogu", "primary": true }
+    ],
+    "purchaseLinks": []
+  } 
+]

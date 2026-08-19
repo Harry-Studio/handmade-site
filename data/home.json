@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "title": "iHogu Studio",
+    "subtitle": "Handmade Felt Art with Warmth. Each piece has a number, a date, and a story.",
+    "buttons": [
+      { "label": "View Works", "page": "works" },
+      { "label": "About This Studio", "page": "about" }
+    ],
+    "images": {
+      "heroArtwork": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/studio/hero-diorama.png?imageMogr2/format/webp",
+      "studioWorkbench": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/studio/workbench.png?imageMogr2/format/webp"
+    }
+  },
+  "featuredWorks": {
+    "title": "Show Works",
+    "limit": 3
+  },
+  "studioIntro": {
+    "title": "Slowly shaped by hand.",
+    "backgroundImage": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/studio/slowlshaphand.png?imageMogr2/format/webp",
+    "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/studio/workbench.png?imageMogr2/format/webp"
+  },
+  "processSteps": [
+    {
+      "step": "01",
+      "title": "Wool & Color",
+      "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/journal/step-01.png?imageMogr2/format/webp",
+      "text": "We select natural wool and soft tones that feel like nature."
+    },
+    {
+      "step": "02",
+      "title": "Felt & Shape",
+      "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/journal/step-02.png?imageMogr2/format/webp",
+      "text": "Every form is carefully felted needle by needle."
+    },
+    {
+      "step": "03",
+      "title": "Number & Story",
+      "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/journal/step-03.png?imageMogr2/format/webp",
+      "text": "We give each piece a number, a date, and its own story."
+    }
+  ],
+  "bottom": {
+    "qrcodeImage": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/studio/qrcode.png?imageMogr2/format/webp",
+    "followupImage": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/studio/followup.png?imageMogr2/format/webp"
+  }
+}

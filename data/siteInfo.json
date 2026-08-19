@@ -1,0 +1,25 @@
+{
+  "brandName": "iHogu Studio",
+  "brandNameZh": "\u7231\u548c\u5149",
+  "domain": "harry-studio.github.io",
+  "tagline": "Handmade Felt Art with Warmth",
+  "subtitle": "Each piece has a number, a date, and a story.",
+  "email": "harry@ihogu.com",
+  "seo": {
+    "title": "iHogu Studio",
+    "description": "Handmade felt artworks with warmth, story, and quiet process records."
+  },
+  "navigation": [
+    { "label": "Works", "path": "/works" },
+    { "label": "Process", "path": "/process" },
+    { "label": "About", "path": "/about" },
+    { "label": "Contact", "path": "/contact" }
+  ],
+  "socialLinks": [
+    { "platform": "X", "label": "Follow on X", "url": "https://x.com/ihogu", "isVisible": true },
+    { "platform": "YouTube", "label": "Watch on YouTube", "url": "https://www.youtube.com/@ihogu", "isVisible": true },
+    { "platform": "Douyin", "label": "Visit Douyin", "url": "https://www.douyin.com/user/ihogu", "isVisible": true },
+    { "platform": "Xiaohongshu", "label": "Visit Xiaohongshu", "url": "https://www.xiaohongshu.com/user/profile/ihogu", "isVisible": true },
+    { "platform": "Bilibili", "label": "Visit Bilibili", "url": "https://space.bilibili.com/ihogu", "isVisible": true }
+  ]
+}

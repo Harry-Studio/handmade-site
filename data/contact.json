@@ -1,0 +1,44 @@
+{
+  "title": "Contact iHogu Studio",
+  "subtitle": "For custom pieces, collaborations, or questions about a handmade felt artwork, feel free to reach out.",
+  "email": {
+    "label": "Email the Studio",
+    "address": "harry@ihogu.com",
+    "subject": "Hello iHogu Studio"
+  },
+  "customRequest": {
+    "title": "Custom Pieces",
+    "description": "Custom handmade felt pieces are available in limited slots. You can send a message with your idea, preferred size, reference photos, and expected timeline.",
+    "buttonText": "Request a Custom Piece",
+    "emailSubject": "Custom Piece Request"
+  },
+  "socialSection": {
+    "title": "Find iHogu Online",
+    "description": "Choose the platform that works best for you."
+  },
+  "socialLinks": [
+    { "platform": "Email", "label": "Email the Studio", "url": "mailto:harry@ihogu.com", "isVisible": true, "description": "Write directly for questions, custom pieces, and collaborations." },
+    { "platform": "X", "label": "Follow on X", "url": "https://x.com/ihogu", "isVisible": true, "description": "Short updates and studio notes." },
+    { "platform": "YouTube", "label": "Watch on YouTube", "url": "https://www.youtube.com/@ihogu", "isVisible": true, "description": "Process videos and making records." },
+    { "platform": "Douyin", "label": "Visit Douyin", "url": "https://www.douyin.com/user/ihogu", "isVisible": true, "description": "Chinese short video updates." },
+    { "platform": "Xiaohongshu", "label": "Visit Xiaohongshu", "url": "https://www.xiaohongshu.com/user/profile/ihogu", "isVisible": true, "description": "Notes, photos, and studio updates." },
+    { "platform": "Bilibili", "label": "Visit Bilibili", "url": "https://space.bilibili.com/ihogu", "isVisible": true, "description": "Longer process videos and archive clips." }
+  ],
+  "shopSection": {
+    "title": "Shop Links",
+    "description": "Available pieces may be listed on external platforms."
+  },
+  "shopLinks": [
+    { "platform": "Etsy", "label": "Visit Etsy Shop", "url": "", "isVisible": false },
+    { "platform": "Taobao", "label": "Visit Taobao Shop", "url": "", "isVisible": false },
+    { "platform": "Douyin Shop", "label": "Visit Douyin Shop", "url": "", "isVisible": false },
+    { "platform": "Xiaohongshu Store", "label": "Visit Xiaohongshu Store", "url": "", "isVisible": false }
+  ],
+  "formFields": [
+    { "name": "name", "label": "Name", "type": "text", "placeholder": "Your name", "required": true },
+    { "name": "email", "label": "Email", "type": "email", "placeholder": "your@email.com", "required": true },
+    { "name": "country", "label": "Country / Region", "type": "text", "placeholder": "Where are you writing from?", "required": false },
+    { "name": "piece", "label": "Interested Artwork", "type": "text", "placeholder": "Title or number, if applicable", "required": false },
+    { "name": "message", "label": "Message", "type": "textarea", "placeholder": "Tell us what you have in mind...", "required": true }
+  ]
+}

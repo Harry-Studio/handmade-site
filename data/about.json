@@ -1,0 +1,35 @@
+{
+  "title": "About iHogu Studio",
+  "subtitle": "A warm handmade felt studio creating soft pieces with patience and quiet imagination.",
+  "heroImage": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/studio/workbench.png?imageMogr2/format/webp",
+  "sections": [
+    {
+      "key": "studio",
+      "title": "About the Studio",
+      "body": "iHogu is a one-person felt art studio. Every piece is made slowly, by hand, with care.",
+      "image": "https://wool-ihogu-com-1251903635.cos.na-ashburn.myqcloud.com/images/studio/workbench.png?imageMogr2/format/webp"
+    },
+    {
+      "key": "materials",
+      "title": "Materials",
+      "body": "",
+      "materials": [
+        {
+          "name": "Wool Felt",
+          "description": "Soft, warm, and expressive for tiny handmade scenes.",
+          "note": "Used for figures, houses, flowers, and textured ground."
+        },
+        {
+          "name": "Cotton",
+          "description": "Light supporting details for small decorations and labels.",
+          "note": "Used where a softer fabric touch is needed."
+        }
+      ]
+    },
+    {
+      "key": "story",
+      "title": "Every Piece Has a Story",
+      "body": "Every finished object carries a unique number, a date, and a quiet record of how it was made."
+    }
+  ]
+}
